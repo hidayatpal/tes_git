@@ -1,5 +1,5 @@
 <?php
 
-echo "Belajar Git";
+echo "Belajar Git Hari untuk website";
 
 ?>
